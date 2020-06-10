@@ -25,8 +25,7 @@ class TitleBar extends HTMLElement {
     }
     </style>
     <nav class="navbar navbar-light bg-primary text-white">
-      <a class="navbar-brand text-white" href="#">
-      <img src="/docs/4.5/assets/brand/bootstrap-solid.svg" width="30" height="30" class="d-inline-block align-top" alt="" loading="lazy">
+      <a class="navbar-brand text-white" href="http://www.dicoding.com">
         MoviePedia
       </a>
     </nav>

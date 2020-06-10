@@ -1,8 +1,7 @@
-
+import "regenerator-runtime";
+import "./style/style.css";
 import "./script/component/title-bar.js";
-import "./script/component/search-bar.js";
-import "./style/stylesheet.css";
-
+import main from "./view/main.js";
 
 
 document.addEventListener("DOMContentLoaded", main);

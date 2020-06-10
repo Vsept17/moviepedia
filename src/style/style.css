@@ -15,3 +15,9 @@ main {
     text-align: center;
 
 }
+
+movie-list {
+    margin-top: 32px;
+    width: 100%;
+    padding: 16px;
+}
